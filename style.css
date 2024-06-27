@@ -1,0 +1,36 @@
+body{
+    background-image: url(fon\ 2.jpg);
+    background-size: cover;
+}
+
+h1{
+    background-color: blue;
+}
+
+p{
+    background-color: green;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+th{
+    background-color: aqua;
+}
+
+td{
+    background-color: darkgray;
+}
